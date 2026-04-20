@@ -38,6 +38,7 @@ Made by Shifa
 ## 📦 Requirements
 
 Install PyQt5 before running:
+python main.py
 
 
 ```bash
