@@ -31,6 +31,7 @@ Add sound feedback on click
 Add goal system (e.g. 33, 100 counts)
 Better UI design with layouts
 Save progress automatically
+
 👨‍💻 Author
 
 Made by Shifa
